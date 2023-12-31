@@ -1,0 +1,101 @@
+.image{
+    height: 220px;
+    width: 350px;
+    border-radius: 9px;
+}
+
+.img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.diff-product{
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.diff-btn{
+    font-size: 15px;
+    width: 30%;
+    padding: 6px;
+    font-weight: 600;
+    background-color: lightgrey;
+    border: 0 solid;
+    text-align: center;
+    border-radius: 7px;
+}
+
+.diff-btn-selected{
+    font-size: 15px;
+    width: 30%;
+    padding: 6px;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+    border: 0 solid;
+    text-align: center;
+    border-radius: 7px;
+}
+
+.diff-btn-jiva{
+    font-size: 15px;
+    width: 30%;
+    padding: 10px;
+    font-weight: 600;
+    background-color: lightgrey;
+    border: 0 solid;
+    text-align: center;
+    border-radius: 7px;
+}
+
+.diff-btn-jiva-selected{
+    font-size: 15px;
+    width: 30%;
+    padding: 10px;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+    border: 0 solid;
+    text-align: center;
+    border-radius: 7px;
+}
+
+
+
+
+.product-image-div{
+    margin-bottom: 40px;
+}
+
+.product-div{
+    padding: 10px;
+}
+
+.product-title{
+ font-family: monospace;
+ font-size: 30px;
+}
+
+.ptag{
+    color: gray;
+}
+
+.spantag{
+    color: red;
+    font-weight: 500;
+}
+.price{
+    font-weight: 600;
+}
+
+.view-details-btn{
+    height: 35px;
+    width: 100%;
+    border-radius: 6px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    border: 0 solid white;
+}

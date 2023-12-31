@@ -1,0 +1,40 @@
+.main-div{
+  padding: 20px;
+}
+.navbar-div{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-box{
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("../public/images/logo.png");
+}
+
+.home-btn{
+  border: 0 solid white;
+  background-color: white;
+  font-weight: 600;
+  width: 100px;
+  height: 40px;
+  border-radius: 7px;
+}
+
+
+@media(max-width: 500px){
+  .navbar-div{
+    justify-content: center;
+  }  
+  .logo-box{
+    height: 200px;
+    width: 200px;
+  }
+  .home-btn{
+    display: none;
+  }
+}
