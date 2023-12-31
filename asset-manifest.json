@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Even-Motors/static/css/main.0b5048ac.css",
+    "main.js": "/Even-Motors/static/js/main.21e350c1.js",
+    "static/js/787.a9ae99c5.chunk.js": "/Even-Motors/static/js/787.a9ae99c5.chunk.js",
+    "static/media/waviro-nexa.webp": "/Even-Motors/static/media/waviro-nexa.a6abbe457805cf405c4b.webp",
+    "static/media/waviro-queen-lx.webp": "/Even-Motors/static/media/waviro-queen-lx.2d84417db596f633d67e.webp",
+    "static/media/waviro-queen-sx.webp": "/Even-Motors/static/media/waviro-queen-sx.8c5f3785fe473b45eadc.webp",
+    "static/media/jiva-fusion.jpg": "/Even-Motors/static/media/jiva-fusion.01b60585c9c3a50d2d5d.jpg",
+    "static/media/jiva-trivo.jpg": "/Even-Motors/static/media/jiva-trivo.989112ef59471f10c837.jpg",
+    "static/media/jiva-vista.jpg": "/Even-Motors/static/media/jiva-vista.6297205fc18ce3adb9d4.jpg",
+    "static/media/logo.png": "/Even-Motors/static/media/logo.9cf71ab64e0a0238e9d5.png",
+    "index.html": "/Even-Motors/index.html",
+    "main.0b5048ac.css.map": "/Even-Motors/static/css/main.0b5048ac.css.map",
+    "main.21e350c1.js.map": "/Even-Motors/static/js/main.21e350c1.js.map",
+    "787.a9ae99c5.chunk.js.map": "/Even-Motors/static/js/787.a9ae99c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b5048ac.css",
+    "static/js/main.21e350c1.js"
+  ]
+}
